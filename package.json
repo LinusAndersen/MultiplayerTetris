@@ -1,0 +1,15 @@
+{
+    "name": "christmas-pong",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Linus & Julius Andersen",
+    "license": "krasse Lizenz",
+    "dependencies": {
+        "express": "^4.16.2",
+        "socket.io": "^1.4.5"
+    }
+}
